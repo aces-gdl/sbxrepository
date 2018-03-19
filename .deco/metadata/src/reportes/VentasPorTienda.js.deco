@@ -1,0 +1,124 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 184,
+					"ch": 84
+				},
+				"to": {
+					"line": 184,
+					"ch": 101
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 185,
+					"ch": 85
+				},
+				"to": {
+					"line": 185,
+					"ch": 102
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 186,
+					"ch": 85
+				},
+				"to": {
+					"line": 186,
+					"ch": 102
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 187,
+					"ch": 85
+				},
+				"to": {
+					"line": 187,
+					"ch": 102
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 188,
+					"ch": 86
+				},
+				"to": {
+					"line": 188,
+					"ch": 103
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 189,
+					"ch": 15
+				},
+				"to": {
+					"line": 189,
+					"ch": 13
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 190,
+					"ch": 2
+				},
+				"to": {
+					"line": 190,
+					"ch": 0
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 191,
+					"ch": 7
+				},
+				"to": {
+					"line": 191,
+					"ch": 5
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		}
+	]
+}
